@@ -1,2 +1,2 @@
 # postman-api-testing
-Website Testing with postman
+Website apiTesting with postman
